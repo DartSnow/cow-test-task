@@ -1,7 +1,6 @@
 package org.kulynych;
 
 import org.kulynych.entity.Cow;
-import org.kulynych.service.DairyFarm;
 import org.kulynych.service.SimpleDairyFarm;
 
 public class Main {

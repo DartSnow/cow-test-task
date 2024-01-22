@@ -1,4 +1,4 @@
-package org.kulynych.service;
+package org.kulynych;
 
 import org.kulynych.entity.Cow;
 
